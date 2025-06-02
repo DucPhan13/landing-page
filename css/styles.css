@@ -29,7 +29,7 @@ html {
 }
 
 .icons-social i {
-	font-size: 3em;
+	font-size: 4em;
 }
 
 /* Custom Styles */
@@ -61,6 +61,10 @@ main > .tagline {
 
 .icons-social a {
   text-decoration: none;
+}
+
+.icons-social .sr-only {
+  display: none;
 }
 
 .devto {
